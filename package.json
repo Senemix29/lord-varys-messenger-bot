@@ -1,0 +1,23 @@
+{
+  "name": "lord-varys-messenger-bot",
+  "version": "1.0.0",
+  "description": "A Facebook Messenger bot that behaves like Lord Varys from Game of Thrones, AKA The Master of Whisperes",
+  "main": "got-bot.js",
+  "dependencies": {
+    "messenger-bot": "2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Senemix29/lord-varys-messenger-bot"
+  },
+  "keywords": [],
+  "author": "Natan Ximenes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Senemix29/lord-varys-messenger-bot/issues"
+  },
+  "homepage": "https://github.com/Senemix29/lord-varys-messenger-bot#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
