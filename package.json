@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Senemix29/lord-varys-messenger-bot"
+    "url": "git+https://github.com/Senemix29/lord-varys-messenger-bot.git"
   },
   "keywords": [],
   "author": "Natan Ximenes",
@@ -19,5 +19,13 @@
   "homepage": "https://github.com/Senemix29/lord-varys-messenger-bot#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.0.3",
+    "eslint": "^2.8.0",
+    "eslint-config-airbnb": "^8.0.0",
+    "eslint-plugin-import": "^1.5.0",
+    "eslint-plugin-jsx-a11y": "^1.0.2",
+    "eslint-plugin-react": "^5.0.1"
   }
 }
